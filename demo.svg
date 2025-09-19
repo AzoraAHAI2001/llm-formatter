@@ -1,0 +1,703 @@
+<svg id="svg5862a53a" viewBox="0 0 672 406" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family='Menlo, Monaco, "Courier New", monospace' font-size="14" text-rendering="geometricPrecision">
+    <title>Terminal Session Recording</title>
+    <style>
+            .c12_svg5862a53a { fill:#06989a; }
+      .c5_svg5862a53a { fill:#1a1a1a; }
+      .c9_svg5862a53a { fill:#2e3436; }
+      .c11_svg5862a53a { fill:#2e3436;font-weight:bold; }
+      .c13_svg5862a53a { fill:#303030; }
+      .c3_svg5862a53a { fill:#3465a4;font-weight:bold; }
+      .c1_svg5862a53a { fill:#4e9a06;font-weight:bold; }
+      .c4_svg5862a53a { fill:#75507b;font-weight:bold; }
+      .c7_svg5862a53a { fill:#870000; }
+      .c14_svg5862a53a { fill:#afd7d7; }
+      .c10_svg5862a53a { fill:#bcbcbc; }
+      .c8_svg5862a53a { fill:#d3d7cf; }
+      .c2_svg5862a53a { fill:#e0e0e0; }
+      .c6_svg5862a53a { fill:#ff87af; }
+
+            .v1_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v1_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v1_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 2.7235% { visibility: visible; }
+      }      .v2_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v2_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v2_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 4.7618% { visibility: visible; }
+      }      .v3_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v3_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v3_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 4.9078% { visibility: visible; }
+      }      .v4_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v4_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v4_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 5.0565% { visibility: visible; }
+      }      .v5_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v5_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v5_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 5.6107% { visibility: visible; }
+      }      .v6_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v6_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v6_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 6.0641% { visibility: visible; }
+      }      .v7_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v7_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v7_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 6.6334% { visibility: visible; }
+      }      .v8_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v8_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v8_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 7.8678% { visibility: visible; }
+      }      .v9_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v9_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v9_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 10.5121% { visibility: visible; }
+      }      .v10_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v10_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v10_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 10.9688% { visibility: visible; }
+      }      .v11_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v11_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v11_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 11.2190% { visibility: visible; }
+      }      .v12_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v12_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v12_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 11.6217% { visibility: visible; }
+      }      .v13_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v13_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v13_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 12.7343% { visibility: visible; }
+      }      .v14_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v14_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v14_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 12.7375% { visibility: visible; }
+      }      .v15_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v15_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v15_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 12.7404% { visibility: visible; }
+      }      .v16_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v16_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v16_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 23.8055% { visibility: visible; }
+      }      .v17_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v17_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v17_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 24.2199% { visibility: visible; }
+      }      .v18_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v18_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v18_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 24.8939% { visibility: visible; }
+      }      .v19_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v19_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v19_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 25.9815% { visibility: visible; }
+      }      .v20_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v20_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v20_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 27.1877% { visibility: visible; }
+      }      .v21_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v21_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v21_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 27.4490% { visibility: visible; }
+      }      .v22_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v22_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v22_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 27.7092% { visibility: visible; }
+      }      .v23_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v23_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v23_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 28.3862% { visibility: visible; }
+      }      .v24_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v24_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v24_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 28.7544% { visibility: visible; }
+      }      .v25_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v25_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v25_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 29.1156% { visibility: visible; }
+      }      .v26_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v26_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v26_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 29.5867% { visibility: visible; }
+      }      .v27_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v27_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v27_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 30.2173% { visibility: visible; }
+      }      .v28_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v28_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v28_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 30.9409% { visibility: visible; }
+      }      .v29_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v29_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v29_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 31.2545% { visibility: visible; }
+      }      .v30_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v30_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v30_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 33.5478% { visibility: visible; }
+      }      .v31_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v31_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v31_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 34.3800% { visibility: visible; }
+      }      .v32_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v32_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v32_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 35.4153% { visibility: visible; }
+      }      .v33_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v33_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v33_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 35.8257% { visibility: visible; }
+      }      .v34_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v34_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v34_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 36.2486% { visibility: visible; }
+      }      .v35_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v35_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v35_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 37.7024% { visibility: visible; }
+      }      .v36_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v36_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v36_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 38.1226% { visibility: visible; }
+      }      .v37_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v37_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v37_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 38.3840% { visibility: visible; }
+      }      .v38_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v38_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v38_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 39.1606% { visibility: visible; }
+      }      .v39_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v39_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v39_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 40.5681% { visibility: visible; }
+      }      .v40_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v40_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v40_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 40.9329% { visibility: visible; }
+      }      .v41_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v41_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v41_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 41.6704% { visibility: visible; }
+      }      .v42_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v42_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v42_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 42.1976% { visibility: visible; }
+      }      .v43_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v43_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v43_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 42.6117% { visibility: visible; }
+      }      .v44_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v44_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v44_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 42.8676% { visibility: visible; }
+      }      .v45_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v45_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v45_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 44.9916% { visibility: visible; }
+      }      .v46_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v46_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v46_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 45.0134% { visibility: visible; }
+      }      .v47_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v47_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v47_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 50.0434% { visibility: visible; }
+      }      .v48_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v48_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v48_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 50.4133% { visibility: visible; }
+      }      .v49_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v49_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v49_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 50.7314% { visibility: visible; }
+      }      .v50_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v50_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v50_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 50.9986% { visibility: visible; }
+      }      .v51_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v51_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v51_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 51.3749% { visibility: visible; }
+      }      .v52_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v52_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v52_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 51.6936% { visibility: visible; }
+      }      .v53_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v53_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v53_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 52.6819% { visibility: visible; }
+      }      .v54_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v54_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v54_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 53.0424% { visibility: visible; }
+      }      .v55_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v55_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v55_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 53.3609% { visibility: visible; }
+      }      .v56_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v56_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v56_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 54.4120% { visibility: visible; }
+      }      .v57_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v57_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v57_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 54.8905% { visibility: visible; }
+      }      .v58_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v58_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v58_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 55.1556% { visibility: visible; }
+      }      .v59_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v59_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v59_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 55.8642% { visibility: visible; }
+      }      .v60_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v60_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v60_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 85.6890% { visibility: visible; }
+      }      .v61_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v61_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v61_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 87.3655% { visibility: visible; }
+      }      .v62_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v62_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v62_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0191% { visibility: visible; } 60.0236% { visibility: hidden; }
+      }      .v63_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v63_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v63_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0236% { visibility: visible; } 60.2880% { visibility: hidden; }
+      }      .v64_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v64_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v64_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2880% { visibility: visible; } 76.1360% { visibility: hidden; }
+      }      .v65_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v65_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v65_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; }
+      }      .v66_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v66_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v66_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0236% { visibility: visible; } 60.1611% { visibility: hidden; }
+      }      .v67_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v67_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v67_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.1611% { visibility: visible; } 60.2880% { visibility: hidden; }
+      }      .v68_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v68_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v68_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2880% { visibility: visible; } 66.2296% { visibility: hidden; }
+      }      .v69_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v69_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v69_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 66.2296% { visibility: visible; } 70.9189% { visibility: hidden; }
+      }      .v70_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v70_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v70_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 70.9189% { visibility: visible; } 76.1360% { visibility: hidden; }
+      }      .v71_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v71_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v71_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0236% { visibility: visible; } 60.2493% { visibility: hidden; }
+      }      .v72_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v72_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v72_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2493% { visibility: visible; } 60.2880% { visibility: hidden; }
+      }      .v73_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v73_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v73_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 66.2296% { visibility: visible; } 76.1360% { visibility: hidden; }
+      }      .v74_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v74_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v74_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2880% { visibility: visible; } 70.9189% { visibility: hidden; }
+      }      .v75_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v75_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v75_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 78.0231% { visibility: hidden; }
+      }      .v76_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v76_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v76_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 78.0231% { visibility: visible; }
+      }      .v77_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v77_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v77_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0236% { visibility: visible; } 60.2882% { visibility: hidden; }
+      }      .v78_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v78_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v78_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2882% { visibility: visible; } 66.2296% { visibility: hidden; }
+      }      .v79_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v79_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v79_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2882% { visibility: visible; } 70.9189% { visibility: hidden; }
+      }      .v80_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v80_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v80_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0236% { visibility: visible; } 60.0253% { visibility: hidden; }
+      }      .v81_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v81_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v81_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0253% { visibility: visible; } 60.2882% { visibility: hidden; }
+      }      .v82_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v82_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v82_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2882% { visibility: visible; } 76.1360% { visibility: hidden; }
+      }      .v83_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v83_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v83_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0191% { visibility: visible; } 60.0191% { visibility: hidden; }
+      }      .v84_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v84_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v84_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0236% { visibility: visible; } 60.0261% { visibility: hidden; }
+      }      .v85_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v85_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v85_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0261% { visibility: visible; } 60.2880% { visibility: hidden; }
+      }      .v86_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v86_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v86_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2880% { visibility: visible; } 60.2995% { visibility: hidden; }
+      }      .v87_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v87_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v87_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2995% { visibility: visible; } 76.1291% { visibility: hidden; }
+      }      .v88_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v88_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v88_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1291% { visibility: visible; } 76.1360% { visibility: hidden; }
+      }      .v89_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v89_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v89_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 78.3784% { visibility: hidden; }
+      }      .v90_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v90_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v90_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 78.3784% { visibility: visible; } 85.4398% { visibility: hidden; }
+      }      .v91_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v91_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v91_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 85.4398% { visibility: visible; } 85.6493% { visibility: hidden; }
+      }      .v92_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v92_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v92_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 85.6493% { visibility: visible; } 85.6493% { visibility: hidden; }
+      }      .v93_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v93_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v93_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 85.6493% { visibility: visible; }
+      }      .v94_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v94_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v94_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.0261% { visibility: visible; } 60.2521% { visibility: hidden; }
+      }      .v95_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v95_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v95_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2521% { visibility: visible; } 60.2880% { visibility: hidden; }
+      }      .v96_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v96_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v96_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 60.2995% { visibility: visible; } 76.1360% { visibility: hidden; }
+      }      .v97_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v97_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v97_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 78.0185% { visibility: hidden; }
+      }      .v98_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v98_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v98_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 78.0185% { visibility: visible; } 78.3784% { visibility: hidden; }
+      }      .v99_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v99_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v99_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 78.3773% { visibility: hidden; }
+      }      .v100_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v100_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v100_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 78.3773% { visibility: visible; } 78.3784% { visibility: hidden; }
+      }      .v101_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v101_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v101_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 78.6839% { visibility: hidden; }
+      }      .v102_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v102_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v102_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 78.6839% { visibility: visible; } 85.4398% { visibility: hidden; }
+      }      .v103_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v103_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v103_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 79.3094% { visibility: hidden; }
+      }      .v104_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v104_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v104_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 79.3094% { visibility: visible; } 85.4398% { visibility: hidden; }
+      }      .v105_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v105_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v105_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 79.7187% { visibility: hidden; }
+      }      .v106_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v106_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v106_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 79.7187% { visibility: visible; } 85.4398% { visibility: hidden; }
+      }      .v107_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v107_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v107_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 80.0270% { visibility: hidden; }
+      }      .v108_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v108_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v108_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 80.0270% { visibility: visible; } 85.4398% { visibility: hidden; }
+      }      .v109_svg5862a53a {
+        animation: 39.574066s steps(1, end) infinite svg5862a53a-v109_svg5862a53a-anim;
+        visibility: hidden;
+      }
+      @keyframes svg5862a53a-v109_svg5862a53a-anim {
+        0.0000% { visibility: hidden; } 76.1360% { visibility: visible; } 85.4398% { visibility: hidden; }
+      }      #svg5862a53a_cursor { animation: 39.574066s steps(1, end) infinite svg5862a53a-cursor-pos, 39.574066s steps(1, end) infinite svg5862a53a-cursor-vis; }
+      #svg5862a53a_main-screen { animation: 39.574066s steps(1, end) infinite svg5862a53a-main-screen; opacity: 1; pointer-events: auto; }
+      #svg5862a53a_alt-screen { animation: 39.574066s steps(1, end) infinite svg5862a53a-alt-screen; opacity: 0; pointer-events: none; }
+      #svg5862a53a_main-scroll { animation: 39.574066s steps(1, end) infinite svg5862a53a-main-scroll; }
+      #svg5862a53a_alt-scroll { animation: 39.574066s steps(1, end) infinite svg5862a53a-alt-scroll; }
+      @keyframes svg5862a53a-cursor-pos { 0.0000% { transform: translate(0.00px, 0.00px); } 2.7235% { transform: translate(117.60px, 0.00px); } 4.7618% { transform: translate(126.00px, 0.00px); } 4.9078% { transform: translate(134.40px, 0.00px); } 5.0565% { transform: translate(142.80px, 0.00px); } 5.6107% { transform: translate(151.20px, 0.00px); } 6.0641% { transform: translate(159.60px, 0.00px); } 6.6334% { transform: translate(277.20px, 0.00px); } 7.8658% { transform: translate(0.00px, 16.80px); } 7.8678% { transform: translate(252.00px, 16.80px); } 10.5121% { transform: translate(260.40px, 16.80px); } 10.9688% { transform: translate(268.80px, 16.80px); } 11.2190% { transform: translate(277.20px, 16.80px); } 11.6217% { transform: translate(285.60px, 16.80px); } 12.7239% { transform: translate(0.00px, 33.60px); } 12.7343% { transform: translate(0.00px, 50.40px); } 12.7375% { transform: translate(0.00px, 252.00px); } 12.7404% { transform: translate(252.00px, 252.00px); } 23.8055% { transform: translate(260.40px, 252.00px); } 24.2199% { transform: translate(268.80px, 252.00px); } 24.8939% { transform: translate(277.20px, 252.00px); } 25.9815% { transform: translate(285.60px, 252.00px); } 27.1877% { transform: translate(294.00px, 252.00px); } 27.4490% { transform: translate(302.40px, 252.00px); } 27.7092% { transform: translate(310.80px, 252.00px); } 28.3862% { transform: translate(319.20px, 252.00px); } 28.7544% { transform: translate(327.60px, 252.00px); } 29.1156% { transform: translate(336.00px, 252.00px); } 29.5867% { transform: translate(344.40px, 252.00px); } 30.2173% { transform: translate(352.80px, 252.00px); } 30.9409% { transform: translate(361.20px, 252.00px); } 31.2545% { transform: translate(369.60px, 252.00px); } 33.5478% { transform: translate(378.00px, 252.00px); } 34.3800% { transform: translate(386.40px, 252.00px); } 35.4153% { transform: translate(394.80px, 252.00px); } 35.8257% { transform: translate(403.20px, 252.00px); } 36.2486% { transform: translate(411.60px, 252.00px); } 37.7024% { transform: translate(420.00px, 252.00px); } 38.1226% { transform: translate(428.40px, 252.00px); } 38.3840% { transform: translate(436.80px, 252.00px); } 39.1606% { transform: translate(445.20px, 252.00px); } 40.5681% { transform: translate(453.60px, 252.00px); } 40.9329% { transform: translate(462.00px, 252.00px); } 41.6704% { transform: translate(470.40px, 252.00px); } 42.1976% { transform: translate(478.80px, 252.00px); } 42.6117% { transform: translate(487.20px, 252.00px); } 42.8676% { transform: translate(495.60px, 252.00px); } 44.7798% { transform: translate(0.00px, 268.80px); } 44.9916% { transform: translate(0.00px, 285.60px); } 45.0134% { transform: translate(252.00px, 285.60px); } 50.0434% { transform: translate(260.40px, 285.60px); } 50.4133% { transform: translate(268.80px, 285.60px); } 50.7314% { transform: translate(277.20px, 285.60px); } 50.9986% { transform: translate(285.60px, 285.60px); } 51.3749% { transform: translate(294.00px, 285.60px); } 51.6936% { transform: translate(302.40px, 285.60px); } 52.6819% { transform: translate(310.80px, 285.60px); } 53.0424% { transform: translate(319.20px, 285.60px); } 53.3609% { transform: translate(327.60px, 285.60px); } 54.4120% { transform: translate(336.00px, 285.60px); } 54.8905% { transform: translate(344.40px, 285.60px); } 55.1556% { transform: translate(352.80px, 285.60px); } 55.8642% { transform: translate(420.00px, 285.60px); } 59.8917% { transform: translate(0.00px, 302.40px); } 59.9741% { transform: translate(0.00px, 0.00px); } 60.0253% { transform: translate(0.00px, 369.60px); } 60.0253% { transform: translate(0.00px, 16.80px); } 60.0261% { transform: translate(0.00px, 386.40px); } 60.0261% { transform: translate(0.00px, 16.80px); } 60.1611% { transform: translate(16.80px, 16.80px); } 60.2493% { transform: translate(50.40px, 16.80px); } 60.2521% { transform: translate(50.40px, 386.40px); } 60.2521% { transform: translate(0.00px, 16.80px); } 60.2880% { transform: translate(0.00px, 386.40px); } 60.2880% { transform: translate(8.40px, 285.60px); } 60.2882% { transform: translate(0.00px, 16.80px); } 76.1291% { transform: translate(0.00px, 386.40px); } 76.1291% { transform: translate(0.00px, 16.80px); } 76.1360% { transform: translate(0.00px, 386.40px); } 76.1360% { transform: translate(58.80px, 285.60px); } 76.1360% { transform: translate(0.00px, 16.80px); } 78.0185% { transform: translate(84.00px, 386.40px); } 78.0185% { transform: translate(92.40px, 386.40px); } 78.0185% { transform: translate(0.00px, 16.80px); } 78.0231% { transform: translate(134.40px, 151.20px); } 78.0231% { transform: translate(142.80px, 151.20px); } 78.3773% { transform: translate(92.40px, 386.40px); } 78.3773% { transform: translate(100.80px, 386.40px); } 78.3784% { transform: translate(0.00px, 386.40px); } 78.3784% { transform: translate(142.80px, 151.20px); } 78.6839% { transform: translate(168.00px, 386.40px); } 78.6839% { transform: translate(142.80px, 151.20px); } 79.3094% { transform: translate(176.40px, 386.40px); } 79.3094% { transform: translate(142.80px, 151.20px); } 79.7187% { transform: translate(184.80px, 386.40px); } 79.7187% { transform: translate(142.80px, 151.20px); } 80.0270% { transform: translate(193.20px, 386.40px); } 80.0270% { transform: translate(142.80px, 151.20px); } 85.6493% { transform: translate(0.00px, 386.40px); } 85.6493% { transform: translate(142.80px, 151.20px); } 85.6493% { transform: translate(0.00px, 302.40px); } 85.6890% { transform: translate(252.00px, 302.40px); } 87.3655% { transform: translate(0.00px, 336.00px); } }
+      @keyframes svg5862a53a-cursor-vis { 0.0000% { visibility: visible; } 60.0253% { visibility: hidden; } 60.0253% { visibility: visible; } 60.0261% { visibility: hidden; } 60.0261% { visibility: visible; } 60.2521% { visibility: hidden; } 60.2521% { visibility: visible; } 60.2880% { visibility: hidden; } 60.2882% { visibility: visible; } 66.2296% { visibility: hidden; } 66.2296% { visibility: visible; } 70.9189% { visibility: hidden; } 70.9189% { visibility: visible; } 76.1291% { visibility: hidden; } 76.1291% { visibility: visible; } 76.1360% { visibility: hidden; } 76.1360% { visibility: visible; } 78.0185% { visibility: hidden; } 78.0185% { visibility: visible; } 78.0231% { visibility: hidden; } 78.0231% { visibility: visible; } 78.3773% { visibility: hidden; } 78.3773% { visibility: visible; } 78.3784% { visibility: hidden; } 78.3784% { visibility: visible; } 78.6839% { visibility: hidden; } 78.6839% { visibility: visible; } 79.3094% { visibility: hidden; } 79.3094% { visibility: visible; } 79.7187% { visibility: hidden; } 79.7187% { visibility: visible; } 80.0270% { visibility: hidden; } 80.0270% { visibility: visible; } 85.6493% { visibility: hidden; } 85.6493% { visibility: visible; } }
+      @keyframes svg5862a53a-main-screen { 0% { opacity: 1; pointer-events: auto; } 59.9741% { opacity: 0; pointer-events: none; } 60.0191% { opacity: 1; pointer-events: auto; } 60.0191% { opacity: 0; pointer-events: none; } 85.6493% { opacity: 1; pointer-events: auto; } }
+      @keyframes svg5862a53a-alt-screen { 0% { opacity: 0; pointer-events: none; } 59.9741% { opacity: 1; pointer-events: auto; } 60.0191% { opacity: 0; pointer-events: none; } 60.0191% { opacity: 1; pointer-events: auto; } 85.6493% { opacity: 0; pointer-events: none; } }
+      @keyframes svg5862a53a-main-scroll {  }
+      @keyframes svg5862a53a-alt-scroll {  }
+    </style>
+    <rect width="100%" height="100%" fill="#1a1a1a" />
+        
+    <rect width="100%" height="100%" fill="#1a1a1a" />
+    <g id="svg5862a53a_master">
+        <g id="svg5862a53a_main-screen">
+            <g class="terminal-screen" id="svg5862a53a_main-scroll" text-rendering="geometricPrecision">
+                <text class="c1_svg5862a53a v1_svg5862a53a " x="0.00" y="14.00">user@devvm</text><text class="c2_svg5862a53a v1_svg5862a53a " x="84.00" y="14.00">:</text><text class="c3_svg5862a53a v1_svg5862a53a " x="92.40" y="14.00">~</text><text class="c2_svg5862a53a v1_svg5862a53a " x="100.80" y="14.00" xml:space="preserve">$ </text><text class="c2_svg5862a53a v2_svg5862a53a " x="117.60" y="14.00">c</text><text class="c2_svg5862a53a v3_svg5862a53a " x="126.00" y="14.00">d</text><text class="c2_svg5862a53a v4_svg5862a53a " x="134.40" y="14.00" xml:space="preserve"> </text><text class="c2_svg5862a53a v5_svg5862a53a " x="142.80" y="14.00">e</text><text class="c2_svg5862a53a v6_svg5862a53a " x="151.20" y="14.00">x</text><text class="c2_svg5862a53a v7_svg5862a53a " x="159.60" y="14.00">ample-project/</text><text class="c1_svg5862a53a v8_svg5862a53a " x="0.00" y="30.80">user@devvm</text><text class="c2_svg5862a53a v8_svg5862a53a " x="84.00" y="30.80">:</text><text class="c3_svg5862a53a v8_svg5862a53a " x="92.40" y="30.80">~/example-project</text><text class="c2_svg5862a53a v8_svg5862a53a " x="235.20" y="30.80" xml:space="preserve">$ </text><text class="c2_svg5862a53a v9_svg5862a53a " x="252.00" y="30.80">t</text><text class="c2_svg5862a53a v10_svg5862a53a " x="260.40" y="30.80">r</text><text class="c2_svg5862a53a v11_svg5862a53a " x="268.80" y="30.80">e</text><text class="c2_svg5862a53a v12_svg5862a53a " x="277.20" y="30.80">e</text><text class="c3_svg5862a53a v13_svg5862a53a " x="0.00" y="47.60">.</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="64.40" xml:space="preserve">├── </text><text class="c3_svg5862a53a v14_svg5862a53a " x="33.60" y="64.40">assets</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="81.20" xml:space="preserve">│   ├── </text><text class="c3_svg5862a53a v14_svg5862a53a " x="67.20" y="81.20">css</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="98.00">│   │   └── style.css</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="114.80" xml:space="preserve">│   ├── </text><text class="c3_svg5862a53a v14_svg5862a53a " x="67.20" y="114.80">js</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="131.60">│   │   └── app.js</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="148.40" xml:space="preserve">│   └── </text><text class="c4_svg5862a53a v14_svg5862a53a " x="67.20" y="148.40">logo.png</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="165.20">├── index.php</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="182.00" xml:space="preserve">└── </text><text class="c3_svg5862a53a v14_svg5862a53a " x="33.60" y="182.00">vendor</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="198.80" xml:space="preserve">    └── </text><text class="c3_svg5862a53a v14_svg5862a53a " x="67.20" y="198.80">some-library</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="215.60" xml:space="preserve">        └── file.php</text><text class="c2_svg5862a53a v14_svg5862a53a " x="0.00" y="249.20">6 directories, 5 files</text><text class="c1_svg5862a53a v15_svg5862a53a " x="0.00" y="266.00">user@devvm</text><text class="c2_svg5862a53a v15_svg5862a53a " x="84.00" y="266.00">:</text><text class="c3_svg5862a53a v15_svg5862a53a " x="92.40" y="266.00">~/example-project</text><text class="c2_svg5862a53a v15_svg5862a53a " x="235.20" y="266.00" xml:space="preserve">$ </text><text class="c2_svg5862a53a v16_svg5862a53a " x="252.00" y="266.00">l</text><text class="c2_svg5862a53a v17_svg5862a53a " x="260.40" y="266.00">l</text><text class="c2_svg5862a53a v18_svg5862a53a " x="268.80" y="266.00">m</text><text class="c2_svg5862a53a v19_svg5862a53a " x="277.20" y="266.00">-</text><text class="c2_svg5862a53a v20_svg5862a53a " x="285.60" y="266.00">f</text><text class="c2_svg5862a53a v21_svg5862a53a " x="294.00" y="266.00">o</text><text class="c2_svg5862a53a v22_svg5862a53a " x="302.40" y="266.00">r</text><text class="c2_svg5862a53a v23_svg5862a53a " x="310.80" y="266.00">m</text><text class="c2_svg5862a53a v24_svg5862a53a " x="319.20" y="266.00">a</text><text class="c2_svg5862a53a v25_svg5862a53a " x="327.60" y="266.00">t</text><text class="c2_svg5862a53a v26_svg5862a53a " x="336.00" y="266.00" xml:space="preserve"> </text><text class="c2_svg5862a53a v27_svg5862a53a " x="344.40" y="266.00">-</text><text class="c2_svg5862a53a v28_svg5862a53a " x="352.80" y="266.00">g</text><text class="c2_svg5862a53a v29_svg5862a53a " x="361.20" y="266.00" xml:space="preserve"> </text><text class="c2_svg5862a53a v30_svg5862a53a " x="369.60" y="266.00">&gt;</text><text class="c2_svg5862a53a v31_svg5862a53a " x="378.00" y="266.00" xml:space="preserve"> </text><text class="c2_svg5862a53a v32_svg5862a53a " x="386.40" y="266.00">.</text><text class="c2_svg5862a53a v33_svg5862a53a " x="394.80" y="266.00">.</text><text class="c2_svg5862a53a v34_svg5862a53a " x="403.20" y="266.00">/</text><text class="c2_svg5862a53a v35_svg5862a53a " x="411.60" y="266.00">o</text><text class="c2_svg5862a53a v36_svg5862a53a " x="420.00" y="266.00">u</text><text class="c2_svg5862a53a v37_svg5862a53a " x="428.40" y="266.00">t</text><text class="c2_svg5862a53a v38_svg5862a53a " x="436.80" y="266.00">p</text><text class="c2_svg5862a53a v39_svg5862a53a " x="445.20" y="266.00">u</text><text class="c2_svg5862a53a v40_svg5862a53a " x="453.60" y="266.00">t</text><text class="c2_svg5862a53a v41_svg5862a53a " x="462.00" y="266.00">.</text><text class="c2_svg5862a53a v42_svg5862a53a " x="470.40" y="266.00">t</text><text class="c2_svg5862a53a v43_svg5862a53a " x="478.80" y="266.00">x</text><text class="c2_svg5862a53a v44_svg5862a53a " x="487.20" y="266.00">t</text><text class="c2_svg5862a53a v45_svg5862a53a " x="0.00" y="282.80">Skipping binary file: assets/logo.png</text><text class="c1_svg5862a53a v46_svg5862a53a " x="0.00" y="299.60">user@devvm</text><text class="c2_svg5862a53a v46_svg5862a53a " x="84.00" y="299.60">:</text><text class="c3_svg5862a53a v46_svg5862a53a " x="92.40" y="299.60">~/example-project</text><text class="c2_svg5862a53a v46_svg5862a53a " x="235.20" y="299.60" xml:space="preserve">$ </text><text class="c2_svg5862a53a v47_svg5862a53a " x="252.00" y="299.60">e</text><text class="c2_svg5862a53a v48_svg5862a53a " x="260.40" y="299.60">m</text><text class="c2_svg5862a53a v49_svg5862a53a " x="268.80" y="299.60">a</text><text class="c2_svg5862a53a v50_svg5862a53a " x="277.20" y="299.60">c</text><text class="c2_svg5862a53a v51_svg5862a53a " x="285.60" y="299.60">s</text><text class="c2_svg5862a53a v52_svg5862a53a " x="294.00" y="299.60" xml:space="preserve"> </text><text class="c2_svg5862a53a v53_svg5862a53a " x="302.40" y="299.60">.</text><text class="c2_svg5862a53a v54_svg5862a53a " x="310.80" y="299.60">.</text><text class="c2_svg5862a53a v55_svg5862a53a " x="319.20" y="299.60">/</text><text class="c2_svg5862a53a v56_svg5862a53a " x="327.60" y="299.60">o</text><text class="c2_svg5862a53a v57_svg5862a53a " x="336.00" y="299.60">u</text><text class="c2_svg5862a53a v58_svg5862a53a " x="344.40" y="299.60">t</text><text class="c2_svg5862a53a v59_svg5862a53a " x="352.80" y="299.60" xml:space="preserve">put.txt </text><text class="c1_svg5862a53a v60_svg5862a53a " x="0.00" y="316.40">user@devvm</text><text class="c2_svg5862a53a v60_svg5862a53a " x="84.00" y="316.40">:</text><text class="c3_svg5862a53a v60_svg5862a53a " x="92.40" y="316.40">~/example-project</text><text class="c2_svg5862a53a v60_svg5862a53a " x="235.20" y="316.40" xml:space="preserve">$ </text><text class="c2_svg5862a53a v61_svg5862a53a " x="0.00" y="333.20">logout</text>
+            </g>
+        </g>
+        <g id="svg5862a53a_alt-screen">
+            <g class="terminal-screen" id="svg5862a53a_alt-scroll" text-rendering="geometricPrecision">
+                <rect class="c2_svg5862a53a v64_svg5862a53a" x="0.00" y="0.00" width="672.00" height="16.80"></rect><rect class="c2_svg5862a53a v65_svg5862a53a" x="0.00" y="0.00" width="672.00" height="16.80"></rect><rect class="c6_svg5862a53a v76_svg5862a53a" x="134.40" y="151.20" width="8.40" height="16.80"></rect><rect class="c8_svg5862a53a v81_svg5862a53a" x="0.00" y="369.60" width="117.60" height="16.80"></rect><rect class="c10_svg5862a53a v82_svg5862a53a" x="0.00" y="369.60" width="117.60" height="16.80"></rect><rect class="c10_svg5862a53a v65_svg5862a53a" x="0.00" y="369.60" width="117.60" height="16.80"></rect><rect class="c8_svg5862a53a v81_svg5862a53a" x="117.60" y="369.60" width="100.80" height="16.80"></rect><rect class="c10_svg5862a53a v82_svg5862a53a" x="117.60" y="369.60" width="100.80" height="16.80"></rect><rect class="c10_svg5862a53a v65_svg5862a53a" x="117.60" y="369.60" width="100.80" height="16.80"></rect><rect class="c8_svg5862a53a v81_svg5862a53a" x="218.40" y="369.60" width="453.60" height="16.80"></rect><rect class="c10_svg5862a53a v82_svg5862a53a" x="218.40" y="369.60" width="25.20" height="16.80"></rect><rect class="c10_svg5862a53a v65_svg5862a53a" x="218.40" y="369.60" width="84.00" height="16.80"></rect><rect class="c10_svg5862a53a v78_svg5862a53a" x="243.60" y="369.60" width="75.60" height="16.80"></rect><rect class="c10_svg5862a53a v69_svg5862a53a" x="243.60" y="369.60" width="75.60" height="16.80"></rect><rect class="c10_svg5862a53a v70_svg5862a53a" x="243.60" y="369.60" width="75.60" height="16.80"></rect><rect class="c10_svg5862a53a v75_svg5862a53a" x="302.40" y="369.60" width="16.80" height="16.80"></rect><rect class="c10_svg5862a53a v76_svg5862a53a" x="302.40" y="369.60" width="16.80" height="16.80"></rect><rect class="c10_svg5862a53a v82_svg5862a53a" x="319.20" y="369.60" width="352.80" height="16.80"></rect><rect class="c10_svg5862a53a v65_svg5862a53a" x="319.20" y="369.60" width="352.80" height="16.80"></rect><rect class="c7_svg5862a53a v90_svg5862a53a" x="159.60" y="386.40" width="8.40" height="16.80"></rect><rect class="c7_svg5862a53a v102_svg5862a53a" x="168.00" y="386.40" width="8.40" height="16.80"></rect><rect class="c7_svg5862a53a v104_svg5862a53a" x="176.40" y="386.40" width="8.40" height="16.80"></rect><rect class="c7_svg5862a53a v106_svg5862a53a" x="184.80" y="386.40" width="8.40" height="16.80"></rect><rect class="c7_svg5862a53a v108_svg5862a53a" x="193.20" y="386.40" width="8.40" height="16.80"></rect><rect class="c13_svg5862a53a v86_svg5862a53a" x="478.80" y="386.40" width="58.80" height="16.80"></rect><rect class="c13_svg5862a53a v95_svg5862a53a" x="529.20" y="386.40" width="58.80" height="16.80"></rect><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="14.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="14.00" xml:space="preserve">                                                                                </text><text class="c5_svg5862a53a v64_svg5862a53a " x="0.00" y="14.00" xml:space="preserve">File Edit Options Buffers Tools Text Help                                       </text><text class="c5_svg5862a53a v65_svg5862a53a " x="0.00" y="14.00" xml:space="preserve">File Edit Options Buffers Tools Text Isearch Help                               </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="30.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v66_svg5862a53a " x="0.00" y="30.80" xml:space="preserve">  </text><text class="c2_svg5862a53a v67_svg5862a53a " x="0.00" y="30.80">0c</text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="30.80" xml:space="preserve">--- BEGIN FILE: .gitignore (MIME: text/plain) ---                               </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="30.80" xml:space="preserve">    color: #0d6efd; </text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="30.80">// A simple greeting</text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="30.80" xml:space="preserve">// A simple greeting                                                            </text><text class="c2_svg5862a53a v71_svg5862a53a " x="16.80" y="30.80" xml:space="preserve">    </text><text class="c2_svg5862a53a v72_svg5862a53a " x="16.80" y="30.80">4;1m</text><text class="c2_svg5862a53a v63_svg5862a53a " x="50.40" y="30.80" xml:space="preserve">                                                                          </text><text class="c2_svg5862a53a v73_svg5862a53a " x="168.00" y="30.80" xml:space="preserve">                                                            </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="47.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="47.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="47.60" xml:space="preserve"># Dependencies                                                                  </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="47.60" xml:space="preserve">}                           </text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="47.60">$greeting = "Hello, World!";</text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="47.60" xml:space="preserve">$greeting = "Hello, World!";                                                    </text><text class="c2_svg5862a53a v73_svg5862a53a " x="235.20" y="47.60" xml:space="preserve">                                                    </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="64.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="64.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="64.40" xml:space="preserve">vendor/                                                                         </text><text class="c2_svg5862a53a v73_svg5862a53a " x="0.00" y="64.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="64.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="81.20" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="81.20" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v74_svg5862a53a " x="0.00" y="81.20" xml:space="preserve">--- END FILE: </text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="81.20" xml:space="preserve">?&gt;                                                                              </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="81.20" xml:space="preserve">?&gt;                                                                              </text><text class="c2_svg5862a53a v68_svg5862a53a " x="117.60" y="81.20" xml:space="preserve">.gitignore ---          </text><text class="c2_svg5862a53a v69_svg5862a53a " x="117.60" y="81.20">assets/css/style.css ---</text><text class="c2_svg5862a53a v74_svg5862a53a " x="319.20" y="81.20" xml:space="preserve">                                          </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="98.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="98.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v74_svg5862a53a " x="0.00" y="98.00" xml:space="preserve">               </text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="98.00">&lt;!DOCTYPE html&gt;</text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="98.00" xml:space="preserve">&lt;!DOCTYPE html&gt;                                                                 </text><text class="c2_svg5862a53a v64_svg5862a53a " x="126.00" y="98.00" xml:space="preserve">                                                                 </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="114.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="114.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v74_svg5862a53a " x="0.00" y="114.80">--- BEGIN FILE: assets/</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="114.80" xml:space="preserve">&lt;html lang="en"&gt;                                                                </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="114.80" xml:space="preserve">&lt;html lang="en"&gt;                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="193.20" y="114.80" xml:space="preserve">css/style.css (MIME: text/plain) ---                     </text><text class="c2_svg5862a53a v69_svg5862a53a " x="193.20" y="114.80" xml:space="preserve">js/app.js (MIME: text/plain) ---                         </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="131.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="131.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v74_svg5862a53a " x="0.00" y="131.60">/</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="131.60" xml:space="preserve">&lt;head&gt;                                                                          </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="131.60" xml:space="preserve">&lt;head&gt;                                                                          </text><text class="c2_svg5862a53a v68_svg5862a53a " x="8.40" y="131.60" xml:space="preserve">* General styling */                                                           </text><text class="c2_svg5862a53a v69_svg5862a53a " x="8.40" y="131.60" xml:space="preserve">/ app.js                                                                       </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="148.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="148.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="148.40" xml:space="preserve">body {                                  </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="148.40">// This script runs when the page loads.</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="148.40" xml:space="preserve">    &lt;meta charset="UTF-8"&gt;                                                      </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="148.40" xml:space="preserve">    &lt;meta charset="UTF-8"&gt;                                                      </text><text class="c2_svg5862a53a v74_svg5862a53a " x="336.00" y="148.40" xml:space="preserve">                                        </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="165.20" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="165.20" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="165.20" xml:space="preserve">    font-family: sans-serif;                                                    </text><text class="c2_svg5862a53a v73_svg5862a53a " x="0.00" y="165.20" xml:space="preserve">    </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="165.20" xml:space="preserve">    &lt;meta name="</text><text class="c2_svg5862a53a v69_svg5862a53a " x="33.60" y="165.20" xml:space="preserve">                                                                      </text><text class="c2_svg5862a53a v70_svg5862a53a " x="33.60" y="165.20">&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</text><text class="c2_svg5862a53a v75_svg5862a53a " x="134.40" y="165.20">v</text><text class="c7_svg5862a53a v76_svg5862a53a " x="134.40" y="165.20">v</text><text class="c2_svg5862a53a v65_svg5862a53a " x="142.80" y="165.20" xml:space="preserve">iewport" content="width=device-width, initial-scale=1.0"&gt;      </text><text class="c2_svg5862a53a v73_svg5862a53a " x="621.60" y="165.20" xml:space="preserve">      </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="182.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="182.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="182.00" xml:space="preserve">    background-color: #f0f2f5;                       </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="182.00">document.addEventListener('DOMContentLoaded', () =&gt; {</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="182.00" xml:space="preserve">    &lt;title&gt;Demo Project&lt;/title&gt;                                                 </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="182.00" xml:space="preserve">    &lt;title&gt;Demo Project&lt;/title&gt;                                                 </text><text class="c2_svg5862a53a v74_svg5862a53a " x="445.20" y="182.00" xml:space="preserve">                           </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="198.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="198.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v64_svg5862a53a " x="0.00" y="198.80" xml:space="preserve">    </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="198.80" xml:space="preserve">    &lt;link rel="stylesheet" href="assets/css/style.css"&gt;                         </text><text class="c2_svg5862a53a v74_svg5862a53a " x="33.60" y="198.80">co</text><text class="c2_svg5862a53a v70_svg5862a53a " x="33.60" y="198.80" xml:space="preserve">&lt;link rel="stylesheet" href="assets/css/style.css"&gt;                         </text><text class="c2_svg5862a53a v68_svg5862a53a " x="50.40" y="198.80" xml:space="preserve">lor: #333;                                            </text><text class="c2_svg5862a53a v69_svg5862a53a " x="50.40" y="198.80">nsole.log('Project demo script loaded successfully!');</text><text class="c2_svg5862a53a v74_svg5862a53a " x="504.00" y="198.80" xml:space="preserve">                    </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="215.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="215.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="215.60" xml:space="preserve">    display: flex;                                                              </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="215.60" xml:space="preserve">});    </text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="215.60">&lt;/head&gt;</text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="215.60" xml:space="preserve">&lt;/head&gt;                                                                         </text><text class="c2_svg5862a53a v73_svg5862a53a " x="58.80" y="215.60" xml:space="preserve">                                                                         </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="232.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="232.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="232.40" xml:space="preserve">    justify-content: center;                                                    </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="232.40" xml:space="preserve">      </text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="232.40">&lt;body&gt;</text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="232.40" xml:space="preserve">&lt;body&gt;                                                                          </text><text class="c2_svg5862a53a v73_svg5862a53a " x="50.40" y="232.40" xml:space="preserve">                                                                          </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="249.20" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="249.20" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="249.20" xml:space="preserve">    align-items: center;          </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="249.20">--- END FILE: assets/js/app.js ---</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="249.20" xml:space="preserve">    &lt;h1&gt;&lt;?php echo $greeting; ?&gt;&lt;/h1&gt;</text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="249.20" xml:space="preserve">    &lt;h1&gt;&lt;?php echo $greeting; ?&gt;&lt;/h1&gt;                                           </text><text class="c2_svg5862a53a v74_svg5862a53a " x="285.60" y="249.20" xml:space="preserve">   </text><text class="c2_svg5862a53a v64_svg5862a53a " x="310.80" y="249.20" xml:space="preserve">                                           </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="266.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="266.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="266.00" xml:space="preserve">    height: 100vh;                                                              </text><text class="c2_svg5862a53a v73_svg5862a53a " x="0.00" y="266.00" xml:space="preserve">    </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="266.00" xml:space="preserve">    &lt;p&gt;This is a test project for the LLM Directory Formatter.&lt;/p&gt;              </text><text class="c2_svg5862a53a v69_svg5862a53a " x="33.60" y="266.00" xml:space="preserve">                                                              </text><text class="c2_svg5862a53a v70_svg5862a53a " x="33.60" y="266.00">&lt;p&gt;This is a test project for the LLM Directory Formatter.&lt;/p&gt;</text><text class="c2_svg5862a53a v73_svg5862a53a " x="554.40" y="266.00" xml:space="preserve">              </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="282.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="282.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="282.80" xml:space="preserve">    margin: 0;                                  </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="282.80">--- BEGIN FILE: index.php (MIME: text/x-php) ---</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="282.80" xml:space="preserve">    &lt;script src="assets/js/app.js"&gt;&lt;/script&gt;                                    </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="282.80" xml:space="preserve">    &lt;script src="assets/js/app.js"&gt;&lt;/script&gt;                                    </text><text class="c2_svg5862a53a v74_svg5862a53a " x="403.20" y="282.80" xml:space="preserve">                                </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="299.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v63_svg5862a53a " x="0.00" y="299.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v68_svg5862a53a " x="0.00" y="299.60" xml:space="preserve">}    </text><text class="c2_svg5862a53a v73_svg5862a53a " x="0.00" y="299.60">&lt;</text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="299.60" xml:space="preserve">&lt;/body&gt;                                                                         </text><text class="c2_svg5862a53a v69_svg5862a53a " x="8.40" y="299.60">?php</text><text class="c2_svg5862a53a v70_svg5862a53a " x="8.40" y="299.60">/body&gt;</text><text class="c2_svg5862a53a v74_svg5862a53a " x="42.00" y="299.60" xml:space="preserve">  </text><text class="c2_svg5862a53a v64_svg5862a53a " x="58.80" y="299.60" xml:space="preserve">                                                                         </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="316.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v77_svg5862a53a " x="0.00" y="316.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v78_svg5862a53a " x="0.00" y="316.40" xml:space="preserve">                        </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="316.40">// Main application file</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="316.40" xml:space="preserve">&lt;/html&gt;                                                                         </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="316.40" xml:space="preserve">&lt;/html&gt;                                                                         </text><text class="c2_svg5862a53a v79_svg5862a53a " x="201.60" y="316.40" xml:space="preserve">                                                        </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="333.20" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v77_svg5862a53a " x="0.00" y="333.20" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v78_svg5862a53a " x="0.00" y="333.20" xml:space="preserve">h1 {                                                                            </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="333.20" xml:space="preserve">                           </text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="333.20">--- END FILE: index.php ---</text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="333.20" xml:space="preserve">--- END FILE: index.php ---                                                     </text><text class="c2_svg5862a53a v73_svg5862a53a " x="226.80" y="333.20" xml:space="preserve">                                                     </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="350.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v77_svg5862a53a " x="0.00" y="350.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v78_svg5862a53a " x="0.00" y="350.00" xml:space="preserve">    color: #0d6efd; </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="350.00">// A simple greeting</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="350.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="350.00" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v79_svg5862a53a " x="168.00" y="350.00" xml:space="preserve">                                                            </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="366.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v77_svg5862a53a " x="0.00" y="366.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v78_svg5862a53a " x="0.00" y="366.80" xml:space="preserve">}                           </text><text class="c2_svg5862a53a v69_svg5862a53a " x="0.00" y="366.80">$greeting = "Hello, World!";</text><text class="c2_svg5862a53a v70_svg5862a53a " x="0.00" y="366.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v65_svg5862a53a " x="0.00" y="366.80" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v79_svg5862a53a " x="235.20" y="366.80" xml:space="preserve">                                                    </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="383.60" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v80_svg5862a53a " x="0.00" y="383.60" xml:space="preserve">                                                                                </text><text class="c9_svg5862a53a v81_svg5862a53a " x="0.00" y="383.60" xml:space="preserve">-UUU:---  F1  </text><text class="c9_svg5862a53a v82_svg5862a53a " x="0.00" y="383.60" xml:space="preserve">-UU-:---  F1  </text><text class="c9_svg5862a53a v65_svg5862a53a " x="0.00" y="383.60" xml:space="preserve">-UU-:---  F1  </text><text class="c11_svg5862a53a v81_svg5862a53a " x="117.60" y="383.60" xml:space="preserve">*scratch*   </text><text class="c11_svg5862a53a v82_svg5862a53a " x="117.60" y="383.60" xml:space="preserve">output.txt  </text><text class="c11_svg5862a53a v65_svg5862a53a " x="117.60" y="383.60" xml:space="preserve">output.txt  </text><text class="c9_svg5862a53a v81_svg5862a53a " x="218.40" y="383.60" xml:space="preserve">   All   L1     (Fundamental) ------------------------</text><text class="c9_svg5862a53a v82_svg5862a53a " x="218.40" y="383.60" xml:space="preserve">   </text><text class="c9_svg5862a53a v65_svg5862a53a " x="218.40" y="383.60" xml:space="preserve">   Bot   L</text><text class="c9_svg5862a53a v78_svg5862a53a " x="243.60" y="383.60" xml:space="preserve">Top   L1 </text><text class="c9_svg5862a53a v69_svg5862a53a " x="243.60" y="383.60" xml:space="preserve">30%   L20</text><text class="c9_svg5862a53a v70_svg5862a53a " x="243.60" y="383.60" xml:space="preserve">Bot   L39</text><text class="c9_svg5862a53a v75_svg5862a53a " x="302.40" y="383.60">39</text><text class="c9_svg5862a53a v76_svg5862a53a " x="302.40" y="383.60">47</text><text class="c9_svg5862a53a v82_svg5862a53a " x="319.20" y="383.60" xml:space="preserve">    (Text) -------------------------------</text><text class="c9_svg5862a53a v65_svg5862a53a " x="319.20" y="383.60" xml:space="preserve">    (Text Isearch) -----------------------</text><text class="c2_svg5862a53a v83_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v62_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v84_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v85_svg5862a53a " x="0.00" y="400.40">Loadin</text><text class="c2_svg5862a53a v86_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">For information about GNU Emacs and the GNU system, type </text><text class="c2_svg5862a53a v87_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">          </text><text class="c12_svg5862a53a v88_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">I-search: </text><text class="c12_svg5862a53a v89_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">I-search: </text><text class="c12_svg5862a53a v90_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">Failing I-search: </text><text class="c2_svg5862a53a v91_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">                                                                                </text><text class="c2_svg5862a53a v92_svg5862a53a " x="0.00" y="400.40">Mark saved where search started</text><text class="c2_svg5862a53a v92_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">  </text><text class="c2_svg5862a53a v93_svg5862a53a " x="0.00" y="400.40" xml:space="preserve">4m                                                                              </text><text class="c2_svg5862a53a v94_svg5862a53a " x="50.40" y="400.40" xml:space="preserve">g /etc/emacs/site-start.d/00debian.el (source)...done                     </text><text class="c2_svg5862a53a v95_svg5862a53a " x="50.40" y="400.40" xml:space="preserve">For information about GNU Emacs and the GNU system, type </text><text class="c2_svg5862a53a v96_svg5862a53a " x="84.00" y="400.40" xml:space="preserve">                                                                      </text><text class="c2_svg5862a53a v97_svg5862a53a " x="84.00" y="400.40" xml:space="preserve"> </text><text class="c2_svg5862a53a v98_svg5862a53a " x="84.00" y="400.40">v</text><text class="c2_svg5862a53a v99_svg5862a53a " x="92.40" y="400.40" xml:space="preserve"> </text><text class="c2_svg5862a53a v100_svg5862a53a " x="92.40" y="400.40">e</text><text class="c2_svg5862a53a v89_svg5862a53a " x="100.80" y="400.40" xml:space="preserve">        </text><text class="c2_svg5862a53a v90_svg5862a53a " x="151.20" y="400.40">v</text><text class="c2_svg5862a53a v90_svg5862a53a " x="159.60" y="400.40">e</text><text class="c2_svg5862a53a v101_svg5862a53a " x="168.00" y="400.40" xml:space="preserve"> </text><text class="c2_svg5862a53a v102_svg5862a53a " x="168.00" y="400.40">n</text><text class="c2_svg5862a53a v103_svg5862a53a " x="176.40" y="400.40" xml:space="preserve"> </text><text class="c2_svg5862a53a v104_svg5862a53a " x="176.40" y="400.40">d</text><text class="c2_svg5862a53a v105_svg5862a53a " x="184.80" y="400.40" xml:space="preserve"> </text><text class="c2_svg5862a53a v106_svg5862a53a " x="184.80" y="400.40">o</text><text class="c2_svg5862a53a v107_svg5862a53a " x="193.20" y="400.40" xml:space="preserve"> </text><text class="c2_svg5862a53a v108_svg5862a53a " x="193.20" y="400.40">r</text><text class="c2_svg5862a53a v109_svg5862a53a " x="201.60" y="400.40" xml:space="preserve">                                                        </text><text class="c14_svg5862a53a v86_svg5862a53a " x="478.80" y="400.40">C-h C-a</text><text class="c14_svg5862a53a v95_svg5862a53a " x="529.20" y="400.40">C-h C-a</text><text class="c2_svg5862a53a v86_svg5862a53a " x="537.60" y="400.40" xml:space="preserve">.               </text><text class="c2_svg5862a53a v95_svg5862a53a " x="588.00" y="400.40" xml:space="preserve">.         </text>
+            </g>
+        </g>
+        <rect id="svg5862a53a_cursor" width="8.4" height="16.8" fill="#e0e0e0" opacity="0.7">
+        </rect>
+    </g>
+    
+</svg>

@@ -4,20 +4,23 @@ Effortlessly package your entire codebase for analysis by Large Language Models.
 
 ### Demo
 
+![LLM Directory Formatter Demo](demo.svg)
+
 Imagine this project structure:
 
 ```sh
 .
-├── .gitignore
-├── index.php
-├── assets/
-│   ├── css/
+├── assets
+│   ├── css
 │   │   └── style.css
-│   └── js/
-│       └── app.js
-└── vendor/
-    └── some-library/
-        └── file.php
+│   ├── js
+│   │   └── app.js
+│   └── logo.png
+├── vendor
+│   └── some-library
+│       └── file.php
+├── .gitignore
+└── index.php
 ```
 
 Running the tool is as simple as:
